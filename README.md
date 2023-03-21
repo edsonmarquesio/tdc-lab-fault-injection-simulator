@@ -1,1 +1,41 @@
-# tdc-lab-fault-injection-simulator
+# TDC - Lab AWS FAULT INJECTION SIMULATOR
+
+Repositório Criado Para Lab do Serviço da AWS FAULT INJECTION SIMULATOR
+
+## Passo a Passo da Instalação
+
+### 1 - Crie Uma Conta AWS
+  
+*  https://aws.amazon.com/pt/getting-started/guides/setup-environment/module-one/
+
+### 2 - Crie uma VPC Padrão na AWS
+
+*    https://docs.aws.amazon.com/pt_br/vpc/latest/userguide/default-vpc.html#create-default-vpc
+
+### 3 - Execute as Stacks de CloudFormation e Componentes Disponíveis Nesse Repositório e Se Divirta
+
+*  [AutoScallinGroup](./CloudFormation/AutoScallingGroup/cf-asg-ec2-image-builder-amazon-linux-2.yaml)
+*  [EKS](./CloudFormation/EKS/eks-aws-fault-injection-simulator.yaml)
+
+### Links Úteis
+
+* [Workshop Chaos Engineering on AWS](https://workshops.aws/categories/Chaos%20Engineering)
+* [AWS FIS WorkShop Simulator](https://github.com/aws-samples/aws-fault-injection-simulator-workshop)
+* [AWS FIS Samples](https://github.com/aws-samples/aws-fault-injection-simulator-samples)
+* [AWS Fault Injection Simulator Documentation](https://docs.aws.amazon.com/fis/index.html)
+* [AWS Fault Injection Simulator User Guide](https://docs.aws.amazon.com/fis/latest/userguide/what-is.html)
+* [AWS Fault Injection Simulator API Reference](https://docs.aws.amazon.com/fis/latest/APIReference/Welcome.html)
+* [AWS Fault Injection Simulator API Reference CLI Reference](https://docs.aws.amazon.com/cli/latest/reference/fis/)
+* [AWS Fault Injection Simulator FAQs](https://aws.amazon.com/pt/fis/faqs/)
+* [AWS Fault Injection Simulator Features](https://aws.amazon.com/pt/fis/features/)
+* [AWS Fault Injection Simulator Pricing](https://aws.amazon.com/pt/fis/pricing/)
+
+
+
+### Blogs
+
+* [AWS DevOps Blog](https://aws.amazon.com/pt/blogs/devops/tag/aws-fault-injection-simulator/)
+* [Automating and Scaling Chaos Engineering using AWS Fault Injection Simulator](https://aws.amazon.com/pt/blogs/industries/automating-and-scaling-chaos-engineering-using-aws-fault-injection-simulator/) (21 DEC 2022)
+* [Verify the resilience of your workloads using Chaos Engineering](https://aws.amazon.com/pt/blogs/architecture/verify-the-resilience-of-your-workloads-using-chaos-engineering/) (26 OCT 2022)
+* [Chaos experiments using AWS Step Functions and AWS Fault Injection Simulator](https://aws.amazon.com/pt/blogs/compute/chaos-experiments-using-aws-step-functions-and-aws-fault-injection-simulator/) (14 DEC 2022)
+* [Chaos Testing with AWS Fault Injection Simulator and AWS CodePipeline](https://aws.amazon.com/pt/blogs/architecture/chaos-testing-with-aws-fault-injection-simulator-and-aws-codepipeline/) (10 AUG 2021)
