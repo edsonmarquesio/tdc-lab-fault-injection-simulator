@@ -36,6 +36,7 @@ Repositório Criado Para Lab do Serviço da AWS FAULT INJECTION SIMULATOR
 * [Chaos experiments using AWS Step Functions and AWS Fault Injection Simulator](https://aws.amazon.com/pt/blogs/compute/chaos-experiments-using-aws-step-functions-and-aws-fault-injection-simulator/) (14 DEC 2022)
 * [Chaos Testing with AWS Fault Injection Simulator and AWS CodePipeline](https://aws.amazon.com/pt/blogs/architecture/chaos-testing-with-aws-fault-injection-simulator-and-aws-codepipeline/) (10 AUG 2021)
 * [Chaos Engineering Netflix Blog](https://netflixtechblog.com/tagged/chaos-engineering)
+* [Chaos Engineering: the history, principles, and practice](https://www.gremlin.com/community/tutorials/chaos-engineering-the-history-principles-and-practice/)
 
 ### Repos
 
