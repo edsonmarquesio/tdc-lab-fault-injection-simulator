@@ -17,6 +17,22 @@ Repositório Criado Para Lab do Serviço da AWS FAULT INJECTION SIMULATOR
 *  [AutoScallinGroup](./CloudFormation/AutoScallingGroup/cf-asg-ec2-image-builder-amazon-linux-2.yaml)
 *  [EKS](./CloudFormation/EKS/eks-aws-fault-injection-simulator.yaml)
 
+### 4 - Crie seu Primeiro Experimento
+
+* [ExperimentoAWSFIS](./CloudFormation/FISExperiment/FISExperiment1.json)
+
+### 5 - Valide seu ambiente antes do Experimento
+
+* [TesteELBHealth](./ScriptTest/TestELBHealth.sh)
+
+### 6 - Execute o Experimento 1 e Valide os Resultados
+
+* [PrimeiroExperimentoAWSFIS](./CloudFormation/FISExperiment/FISExperiment1.json)
+
+### 7 - Execute o Experimento 2 e Valide os Resultados
+
+* [SegundoExperimentoAWSFIS](./CloudFormation/FISExperiment/FISExperiment2.json)
+
 ### Documentação AWS FIS
 
 * [Workshop Chaos Engineering on AWS](https://workshops.aws/categories/Chaos%20Engineering)
