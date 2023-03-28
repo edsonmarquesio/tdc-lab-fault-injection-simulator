@@ -14,7 +14,7 @@ Repositório Criado Para Lab do Serviço da AWS FAULT INJECTION SIMULATOR
 
 ### 3 - Execute as Stacks de CloudFormation e Componentes Disponíveis Nesse Repositório e Se Divirta
 
-*  [AutoScallinGroup](./CloudFormation/AutoScallingGroup/cf-asg-ec2-image-builder-amazon-linux-2.yaml)
+*  [AutoScallinGroup](./CloudFormation/AutoScallingGroup/cf-asg-aws-fault-injection-simulator-amazon-linux-2.yaml)
 *  [EKS](./CloudFormation/EKS/eks-aws-fault-injection-simulator.yaml)
 
 ### 4 - Crie seu Primeiro Experimento
@@ -65,4 +65,4 @@ Repositório Criado Para Lab do Serviço da AWS FAULT INJECTION SIMULATOR
 * [Engenharia Do Caos Com AWS Fault Injection Simulator](https://youtu.be/qyQ2B5N4FQ4)
 * [Back to Basics: Chaos Engineering with AWS Fault Injection Simulator](https://youtu.be/AThR8dFmPP4)
 * [AWS re:Invent 2020: AWS Fault Injection Simulator: Fully managed chaos engineering service](https://youtu.be/yoNeMLj3CHc)
-* [AWS re:Invent 2022 - The evolution of chaos engineering at Netflix (NFX303)](https://www.youtube.com/watch?v=Xbn65E-BQhA)
+* [AWS re:Invent 2022 - The evolution of chaos engineering at Netflix (NFX303)](https://www.youtube.com/watch?v=Xbn65E-BQhA).
