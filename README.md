@@ -62,6 +62,7 @@ Repositório Criado Para Lab do Serviço da AWS FAULT INJECTION SIMULATOR
 
 ### Videos
 
+* [Engenharia Do Caos Com AWS Fault Injection Simulator](https://youtu.be/qyQ2B5N4FQ4)
 * [Back to Basics: Chaos Engineering with AWS Fault Injection Simulator](https://youtu.be/AThR8dFmPP4)
 * [AWS re:Invent 2020: AWS Fault Injection Simulator: Fully managed chaos engineering service](https://youtu.be/yoNeMLj3CHc)
 * [AWS re:Invent 2022 - The evolution of chaos engineering at Netflix (NFX303)](https://www.youtube.com/watch?v=Xbn65E-BQhA)
